@@ -1,107 +1,107 @@
 {
     "extension_name": {
-        "message": "Summarize and Translate with Gemini"
+        "message": "Tiivistä ja käännä sivuston tekstin Geminin avulla"
     },
     "extension_description": {
-        "message": "Summarize and translate web pages. Uses Gemini as the backend."
+        "message": "Tiivistä ja käännä sivuston tekstin Geminin avulla."
     },
     "popup_button_run": {
-        "message": "Run it again"
+        "message": "Suorita uudelleen"
     },
     "popup_button_results": {
-        "message": "Open results in a new tab"
+        "message": "Avaa tulokset uudessa välilehdessä"
     },
     "popup_button_options": {
-        "message": "Open options page"
+        "message": "Avaa asetukset"
     },
     "popup_summarizing": {
-        "message": "Summarizing"
+        "message": "Tiivistää"
     },
     "popup_summarizing_captions": {
-        "message": "Summarizing the captions"
+        "message": "Tiivistää kuvatekstejä"
     },
     "popup_summarizing_image": {
-        "message": "Summarizing the image"
+        "message": "Tekee yhteenvetoa kuvasta"
     },
     "popup_translating": {
-        "message": "Translating"
+        "message": "Kääntää"
     },
     "popup_translating_captions": {
-        "message": "Translating the captions"
+        "message": "Kääntää kuvatekstejä"
     },
     "popup_translating_image": {
-        "message": "Translating the image"
+        "message": "Kääntää kuvasta"
     },
     "popup_processing": {
-        "message": "Processing"
+        "message": "Käsitellään"
     },
     "popup_prompt_blocked": {
-        "message": "The prompt was blocked."
+        "message": "Prompti on estetty."
     },
     "popup_response_blocked": {
-        "message": "The response was blocked."
+        "message": "Vastaus on estetty."
     },
     "popup_unexpected_response": {
-        "message": "An unknown error occurred. Please check the console log."
+        "message": "Tuntematon virhe. Tarkista konsolilogi."
     },
     "popup_miscellaneous_error": {
-        "message": "This page cannot be summarized or translated."
+        "message": "Tämä sivu ei voi tiivistää tai kääntää."
     },
     "results_title": {
-        "message": "Results - Summarize and Translate with Gemini"
+        "message": "Tulokset - Tiivistä ja käännä sivuston tekstin Geminin avulla"
     },
     "results_button_copy": {
-        "message": "Copy"
+        "message": "Kopioi"
     },
     "results_copied": {
-        "message": "Copied."
+        "message": "Kopioitu."
     },
     "options_title": {
-        "message": "Options - Summarize and Translate with Gemini"
+        "message": "Asetukset - Tiivistä ja käännä sivuston tekstin Geminin avulla"
     },
     "options_apikey": {
         "message": "Gemini API Key"
     },
     "options_apikey_hint": {
-        "message": "You can obtain a Gemini API Key at the following page."
+        "message": "Voit saada Gemini API Key tästä sivustosta."
     },
     "options_model": {
-        "message": "Language Model"
+        "message": "Kielimalli"
     },
     "options_language": {
-        "message": "Summarize in / Translate to"
+        "message": "Tiivistä kielellä / Käännä kielelle"
     },
     "options_language_notes": {
-        "message": "The language setting is disregarded in custom actions."
+        "message": "Kieliasetuksen ei käytetä mukautettujen toimintojen yhteydessä."
     },
     "options_no_text_action": {
-        "message": "When no text is selected, do the following action"
+        "message": "Kun tekstiä ei ole valittu, tee seuraava toiminto"
     },
     "options_no_text_summarize": {
-        "message": "Summarize (default)"
+        "message": "Tiivistää (oletus)"
     },
     "options_no_text_translate": {
-        "message": "Translate"
+        "message": "Käännä"
     },
     "options_no_text_custom": {
-        "message": "Custom action"
+        "message": "Mukautettu toiminto"
     },
     "options_text_action": {
-        "message": "When text is selected, do the following action"
+        "message": "Kun teksti on valittu, tee seuraava toiminto"
     },
     "options_text_summarize": {
-        "message": "Summarize"
+        "message": "Tiivistää"
     },
     "options_text_translate": {
-        "message": "Translate (default)"
+        "message": "Käännä (oletus)"
     },
     "options_text_custom": {
-        "message": "Custom action"
+        "message": "Mukautettu toiminto"
     },
     "options_button_save": {
-        "message": "Save options"
+        "message": "Tallenna asetukset"
     },
     "options_saved": {
-        "message": "Saved."
+        "message": "Tallennettu."
     }
 }

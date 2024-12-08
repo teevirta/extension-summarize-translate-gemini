@@ -29,7 +29,8 @@ const getSystemPrompt = async (actionType, mediaType, languageCode, taskInputLen
     zh_cn: "Simplified Chinese",
     zh_tw: "Traditional Chinese",
     ja: "Japanese",
-    ko: "Korean"
+    ko: "Korean",
+    fi: "Finnish"
   };
 
   const numItems = Math.min(10, 3 + Math.floor(taskInputLength / 2000));

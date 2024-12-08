@@ -17,7 +17,8 @@ def main():
         "bn": "Bengali",
         "zh_CN": "Simplified Chinese",
         "zh_TW": "Traditional Chinese",
-        "ko": "Korean"
+        "ko": "Korean",
+        "fi": "Finnish"
     }
 
     google.generativeai.configure(
